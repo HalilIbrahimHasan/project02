@@ -18,5 +18,6 @@ public class FirstClass {
 
 		System.out.println("Here are some changes from local feature branch");
 		System.out.println("here is the conflict on local feature");
+		System.out.println("here is my second conflict from local feature");
 	}
 }
